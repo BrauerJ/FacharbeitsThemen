@@ -23,4 +23,5 @@ AI and other algorithm:
 - D*
 - Yen´s algorithm
 - Flanking Opportunity (better than shortes path?)
+- Tactical pathfinding opportunities
 
