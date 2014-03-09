@@ -12,7 +12,7 @@ Solving big problems:
 - Optimize 2D Collision Detection without the usage of an quadtree for particle emitting
 - Simulate collision avoidance behaviour to optimize performance (Behavior of Pedestrians)
 - Use a different technique of terrain analysis for strategy games
-- Component based AI System (Implmentation, Pro, Cons, Problems?)
+- Component based AI System (Implementation, Pro, Cons, Problems?)
 - XML Serialization for complexe datastructures
 
 AI and other algorithm:
@@ -22,6 +22,6 @@ AI and other algorithm:
 - A*
 - D*
 - Yen´s algorithm
-- Flanking Opportunity (better than shortes path?)
+- Flanking Opportunity (better than shortest path?)
 - Tactical pathfinding opportunities
 
