@@ -13,7 +13,7 @@ Solving big problems:
 - Simulate collision avoidance behaviour to optimize performance (Behavior of Pedestrians)
 - Use a different technique of terrain analysis for strategy games
 - Component based AI System (Implementation, Pro, Cons, Problems?)
-- XML Serialization for complexe datastructures
+- XML Serialization for complex datastructures
 
 AI and other algorithm:
 - Alpha-beta pruning algorithm 
