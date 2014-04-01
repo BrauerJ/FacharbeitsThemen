@@ -25,3 +25,7 @@ AI and other algorithm:
 - Flanking Opportunity (better than shortest path?)
 - Tactical pathfinding opportunities
 
+
+Datastructures and BIG Data:
+- F# big data science
+- D# big data science
